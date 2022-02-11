@@ -1,5 +1,5 @@
 {
-    "name": "yelpcamp-project",
+    "name": "trip-to-romania",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -9,15 +9,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/MehdiSaffar/yelpcamp-project.git"
+        "url": ""
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/MehdiSaffar/yelpcamp-project/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/MehdiSaffar/yelpcamp-project#readme",
+    "homepage": "",
     "dependencies": {
         "@mapbox/mapbox-sdk": "^0.13.1",
         "cloudinary": "^1.26.3",
