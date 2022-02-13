@@ -14,3 +14,13 @@ Trip-to-Romania is a website where visitors may browse, make, and rate postings 
 -Search for a place by name or location
 
 -Sort places by highest rating, most reviewed, lowest price, or highest price
+
+Deployed with heroku. Live demo here: https://triptoromania-laurentiumoisi.herokuapp.com/
+Homepage:
+![image](https://user-images.githubusercontent.com/94526883/153757331-b6fbf110-10c3-45ac-867f-d84f07790cbb.png)
+View places:
+![image](https://user-images.githubusercontent.com/94526883/153757344-0e9e7525-06c5-467e-9381-d8bce9455482.png)
+Add new place:
+![image](https://user-images.githubusercontent.com/94526883/153757415-48722876-c21b-43e0-bdd6-455f67673bfd.png)
+Register:
+![image](https://user-images.githubusercontent.com/94526883/153757376-4e012d9c-dca4-4cfa-ba1a-092734e686c2.png)
